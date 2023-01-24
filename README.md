@@ -27,10 +27,30 @@ Configuração do Phishing no Kali Linux:
      •	URL para clone: http://www.facebook.com
 
 Resultados obtidos:
- 
+
+Criação da página fake: 
+
 ![image](https://user-images.githubusercontent.com/103138801/214185666-b9a8b72e-876c-4173-aa43-5f36fcbb1634.png)
 
-![image](https://user-images.githubusercontent.com/103138801/214186969-e0ef7b97-7939-4574-8034-57ae30066628.png)
+
+
+ Login fake:
+ 
+![image](https://user-images.githubusercontent.com/103138801/214187741-bfbbe574-c5a8-4413-9eac-219ab41a2d27.png)
+
+
+
+ Captura do login:
+ 
+![image](https://user-images.githubusercontent.com/103138801/214188861-9f5ab1d8-b351-4caa-8d86-042d48670577.png)
+
+
+
+
+
+
+
+
 
 
 
